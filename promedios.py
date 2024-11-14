@@ -1,3 +1,8 @@
+"""
+Owen David Loza Quirarte
+13/11/2024
+Lista de alumnos con calificaciones a promedios. 
+"""
 from pathlib import Path
 
 def calcular_promedios(entrada, salida):
